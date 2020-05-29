@@ -1,5 +1,5 @@
 # Build Status
-[![Build Status](https://louissimonetti.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://louissimonetti.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://louissimonetti.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=failed-test)](https://louissimonetti.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=4&branchName=failed-test)
 
 # Contributing
 
